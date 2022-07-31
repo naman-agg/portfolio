@@ -4,11 +4,7 @@
   "homepage": "http://hashirshoaeb.com/home",
   "version": "2.0.0",
   "private": true,
-  "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
-  },
+  "author": "Hashir Shoaib <hashirshoaeb@gmail.com> (https://github.com/hashirshoaeb)",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.5.2",
@@ -49,5 +45,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "main": "pages.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naman-agg/portfolio.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naman-agg/portfolio/issues"
   }
 }
